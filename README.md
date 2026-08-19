@@ -1,8 +1,6 @@
 # KREA2-Wildcard-Prompt-Selector--KWPS-
 
-<div align="center">
   ![preview](preview.png)
-</div>
 
 This node is made to simplify prompting by giving the user access to >1500 categorized wildcards (pre-written prompts).
 
